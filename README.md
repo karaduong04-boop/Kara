@@ -1,1 +1,3 @@
 # Kara
+
+About Me:
